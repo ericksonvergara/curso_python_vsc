@@ -11,6 +11,6 @@ def evaluacion(nota):
 		calificacion = 7
 	return valoracion
 
-print(evaluacion(int(nota_alumno)))
+print(evaluacion(float(nota_alumno)))
 
 
