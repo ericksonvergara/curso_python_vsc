@@ -14,7 +14,7 @@ print("El programa ha finalizado")
 
 print("--------------------------------------------------")
 
-nota_alumno = int(input("Introduce tu nota, por favor: "))
+nota_alumno = float(input("Introduce tu nota, por favor: "))
 
 if nota_alumno<5:
 	print("Insuficiente")
