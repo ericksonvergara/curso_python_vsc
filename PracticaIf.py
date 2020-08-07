@@ -13,4 +13,6 @@ def evaluacion(nota):
 
 print(evaluacion(float(nota_alumno)))
 
+print("Adios!")
+
 
