@@ -29,6 +29,7 @@ salario_administrativo = int(input("Introduce el salario del administrativo: "))
 #concqtenacion de caracteres
 print("salario del administrativo: " + str(salario_administrativo))
 
+# Concatenaciom de operadores de comparacion
 if salario_administrativo < salario_jefe_area < salario_director < salario_presidente:
 	print("Todo funciona correctamente")
 else:
