@@ -12,6 +12,8 @@ else:
 print("")
 print("El programa ha finalizado")
 
+print("--------------------------------------------------")
+
 nota_alumno = int(input("Introduce tu nota, por favor: "))
 
 if nota_alumno<5:
