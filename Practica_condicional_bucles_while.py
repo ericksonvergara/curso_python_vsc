@@ -1,7 +1,8 @@
 import math
 #bucle While
-#sintaxis while condicion:
-#			cuerpo del bucle
+#sintaxis 
+# while condicion:
+#	  cuerpo del bucle
 '''
 i = 1
 
@@ -49,4 +50,4 @@ while numero < 0:
 
 if intentos < 2:
 	solucion=math.sqrt(numero)
-	print("la raiz cuadrada de " + " es " + str(solucion))
+	print("la raiz cuadrada de ", numero, " es ", str(solucion))
