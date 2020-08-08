@@ -42,7 +42,7 @@ while numero < 0:
 	print("no se puede hallar la raiz de un númeor negativo")
 
 	if intentos ==2:
-		print("has realizado demasiados intentos. El pr ha finalizado")
+		print("has realizado demasiados intentos. El programa ha finalizado")
 		break;
 	numero = int(input("introducir un número por favor: "))
 	if numero < 0:
