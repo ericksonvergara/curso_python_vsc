@@ -11,22 +11,22 @@ print("<-------------------------------------------------------->")
 
 salario_presidente = int(input("Introduce el salario del presidente: "))
 
-#concqtenacion de caracteres
+#concatenacion de caracteres
 print("salario presidente: " + str(salario_presidente))
 
 salario_director = int(input("Introduce el salario del director: "))
 
-#concqtenacion de caracteres
+#concatenacion de caracteres
 print("salario director: " + str(salario_director))
 
 salario_jefe_area = int(input("Introduce el salario del jefe de area: "))
 
-#concqtenacion de caracteres
+#concatenacion de caracteres
 print("salario Jefe de area: " + str(salario_jefe_area))
 
 salario_administrativo = int(input("Introduce el salario del administrativo: "))
 
-#concqtenacion de caracteres
+#concatenacion de caracteres
 print("salario del administrativo: " + str(salario_administrativo))
 
 # Concatenaciom de operadores de comparacion
